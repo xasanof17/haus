@@ -15,7 +15,7 @@ module.exports = {
     plugins: [
       // Your postcss plugins
     ]
-  },
+  },  
   presets: [
     require('poi-preset-bundle-report')(),
     require('poi-preset-offline')({

@@ -16,9 +16,13 @@
     "email": "xasanof17@gmail.com"
   },
   "dependencies": {
-    "offline-plugin": "^4.8.0",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
     "normalize.css": "^7.0.0",
     "object-assign": "^4.1.1",
+    "offline-plugin": "^4.8.0",
     "promise-polyfill": "^6.0.2"
   },
   "devDependencies": {
